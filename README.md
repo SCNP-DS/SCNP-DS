@@ -1,5 +1,7 @@
-### Hi there 👋
-
+#### Hello world :earth_africa:
+BSc in Biomedical Laboratoty Sciences :microscope: :dna:
+pursuing a MSc in Data Science and Advanced Analytics :computer:
+  
 <!--
 **SCNP-DS/SCNP-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
